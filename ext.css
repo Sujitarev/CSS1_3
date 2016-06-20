@@ -1,0 +1,50 @@
+.border{
+    table-layout: auto;
+    table-border-color-dark: black;
+    text-align: right;
+    font-family: "Georgia", Times, serif;
+    border: black;
+
+}
+
+.back-ground{
+    align-self: center;
+    background-image: url("back.jpg");
+    background-size: 100%;
+
+    width: 50%;
+}
+
+.leg{
+    margin-top: 10px;
+}
+.field{
+    display: block;
+    background-color: cornflowerblue;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-top: 0.45em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove (internal value);
+}
+.form-ma{
+    align-self: center;
+}
+
+.inter{
+    margin-left: 40px;
+
+}
+
+.button-round{
+    height: 40px;
+    width: 80px;
+    align-self: center;
+    border-radius: 5px;
+    background-color: blue;
+
+
+}
